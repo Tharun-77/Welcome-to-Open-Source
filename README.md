@@ -1707,6 +1707,11 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <img src="https://avatars.githubusercontent.com/u/124999374?v=4" width="100px;" alt="Shubham Raut"/>
                     <br />
                     <sub><b>Shubham Raut</b></sub>
+            <td align="center">
+                <a href="https://github.com/Tharun-77">
+                    <img src="https://avatars.githubusercontent.com/u/152776677?s=400&v=4" width="100px;" alt="Tharun Tej"/>
+                    <br />
+                    <sub><b>Tharun Tej</b></sub>
                 </a>
             </td>
         </tr>
