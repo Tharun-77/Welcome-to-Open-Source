@@ -1714,13 +1714,6 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Tharun Tej</b></sub>
                 </a>
             </td>
-            <td align="center">
-                <a href="https://github.com/">
-                    <img src="https://avatars.githubusercontent.com/u/152776677?s=400&v=4" width="100px;" alt="kjhkj"/>
-                    <br />
-                    <sub><b>jghgcvj</b></sub>
-                </a>
-            </td>
         </tr>
     </tbody>
 </table>
